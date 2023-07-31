@@ -1,0 +1,5 @@
+"SECTIONS" "USER.INFORMATIONS"
+"username" "Krzysztof Pleskot"
+"affiliation" "Adam Mickiewicz University"
+"ORCID" "0000-0002-3724-1700"
+"email" "krzypl@amu.edu.pl"
